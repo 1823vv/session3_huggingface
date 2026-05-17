@@ -34,7 +34,7 @@ jobs:
           from huggingface_hub import HfApi
 
           token = os.environ["HF_TOKEN"]
-          repo_id = "1823vv/session3_huggingface"
+          repo_id = "bbovv/session3_huggingface"
           api = HfApi()
 
           api.create_repo(repo_id, token=token, exist_ok=True)
