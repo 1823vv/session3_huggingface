@@ -1,0 +1,7 @@
+{
+  "input_dim": 205,
+  "hidden_dim": 256,
+  "output_dim": 1,
+  "max_features": 5000,
+  "test_accuracy": 1.0
+}
